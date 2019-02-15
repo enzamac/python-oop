@@ -1,4 +1,6 @@
 # python-oop
 
-Please checkout this resource for in-depth explanation and examples on OOP in python
+This sample specifically looks at Inheritance 
+
+Please checkout this resource for in-depth explanation and examples of OOP in python
 https://www.programiz.com/python-programming/object-oriented-programming
