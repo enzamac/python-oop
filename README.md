@@ -1,4 +1,4 @@
-# python-oop
+# python-oop-inheritance
 
 This sample specifically looks at Inheritance 
 
